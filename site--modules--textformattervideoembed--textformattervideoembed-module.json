@@ -1,0 +1,36 @@
+{
+    "file": "site\\modules\\TextformatterVideoEmbed\\TextformatterVideoEmbed.module",
+    "textdomain": "site--modules--textformattervideoembed--textformattervideoembed-module",
+    "translations": {
+        "186b41321d80bdded69c38a535254341": {
+            "text": "YouTube\/Vimeo-vide\u00f3k be\u00e1gyaz\u00e1sa"
+        },
+        "760bd7fc66330a2b435b3d6c436b7605": {
+            "text": "Adja meg valamelyik bekezd\u00e9sben mag\u00e1t a teljes YouTube vagy Vimeo URL-c\u00edmet (p\u00e9ld\u00e1ul: http:\/\/www.youtube.com\/watch?v=Wl4XiYadV_k), \u00e9s ez automatikusan \u00e1t fogja alak\u00edtani be\u00e1gyazott vide\u00f3v\u00e1. Ez a form\u00e1z\u00f3 megb\u00edzhat\u00f3 bemeneten val\u00f3 futtat\u00e1sra k\u00e9sz\u00fclt. Haszn\u00e1lata TinyMCE sz\u00f6vegter\u00fclet mez\u0151kkel val\u00f3 haszn\u00e1lathoz aj\u00e1nlott."
+        },
+        "b693aca59ab9d773fbeda64945681871": {
+            "text": "Vide\u00f3 maxim\u00e1lis sz\u00e9less\u00e9ge"
+        },
+        "e020e9f5c064dc06976f23bb639be972": {
+            "text": "Vide\u00f3 maxim\u00e1lis magass\u00e1ga"
+        },
+        "5f144bd28a153f03c671e3e0b1f01c79": {
+            "text": "Alkalmazkod\u00f3 be\u00e1gyaz\u00e1si m\u00f3dszer haszn\u00e1lata?"
+        },
+        "f56666f7c2f9f028f5b7ddd5c65a7e27": {
+            "text": "Ha bejel\u00f6li, akkor a rendszer olyan m\u00f3don \u00e1gyazza be a vide\u00f3kat, mely sz\u00e9less\u00e9gben rugalmas form\u00e1tumban teszi lehet\u0151v\u00e9 a megjelen\u00edt\u00e9s\u00fcket."
+        },
+        "a2fcd719e7dab58912e1c4b4cfd70a7c": {
+            "text": "A vide\u00f3be\u00e1gyaz\u00e1si gyors\u00edt\u00f3t\u00e1r ki\u00fcr\u00edtve"
+        },
+        "4b56ce1614c534fd2630335afa3590a8": {
+            "text": "A vide\u00f3 gyors\u00edt\u00f3t\u00e1r ki\u00fcr\u00edt\u00e9se?"
+        },
+        "a0db2e21493ce858956706ff5157abc6": {
+            "text": "Ez ki fogja \u00fcr\u00edteni a gyors\u00edt\u00f3t\u00e1razott be\u00e1gyaz\u00e1si k\u00f3dokat. V\u00e9grehajt\u00e1sa nem k\u00e1ros, azon k\u00edv\u00fcl, hogy sz\u00fcks\u00e9g eset\u00e9n az ism\u00e9telt lek\u00e9r\u00e9s\u00fcket fogja k\u00e9nyszer\u00edteni a YouTube\/Vimeo megoszt\u00f3r\u00f3l."
+        },
+        "4956a67e467e3d2b16f39401da73dabb": {
+            "text": "Jelenleg %d vide\u00f3 van a gyors\u00edt\u00f3t\u00e1rban"
+        }
+    }
+}
